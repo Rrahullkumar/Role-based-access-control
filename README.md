@@ -19,3 +19,4 @@ Follow these steps to set up the project:
 Usage
 1. Open the application in your browser: `http://localhost:3000`
 2. Use the dashboard to manage users and roles.
+![image](https://github.com/user-attachments/assets/3f13ccb2-9caf-4bd2-a7ce-66f6407c463c)
